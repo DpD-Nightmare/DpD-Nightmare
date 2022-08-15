@@ -6,7 +6,7 @@
 
 - 👀 I have completed my Master of Engineering(in the field of Automatic control and robotics) from M.S Univesity Baroda in the year 2020
 
-- 📫 You can contanct me on my email id: dpd6439@gmail.com, linked in id: linkedin.com/in/dhrupad-patel-29921bb2 
+- 📫 You can contanct me on my email id: dhrupadpatel007@gmail.com, linked in id: linkedin.com/in/dhrupad-patel-29921bb2 
 
 <!---
 DpD-Nightmare/DpD-Nightmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
