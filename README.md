@@ -1,11 +1,12 @@
-- 👋 Hi there, My name is Dhrupad @DpD-Nightmare, and I am an AI, ML, and Data Scientist Freelancer.
-    - I completed projects based on AI, ML, and DL modeling using the python & R programming languages. 
-    - I have completed the modeling of several Machine learning algorithm by using programming languages python libs and R packages like(sklearn ml modals, TensorFlow, and hardcoding by using Numpy)
-    - The projects are base on deep learning's multilayer perceptron models, Convolution neural networks(CNN) models for various regression and classification tasks, the NLP model's transformers like Glow_dataset, world to vec dataset. I worked on the audio-based dataset and their feature extraction from the audio dataset and used that data in DNN models for various purposes. I  also have project experience on time-series-based data for visualization and prediction using RNN & LSTM models.
+- 👋 "My name is Dhrupad Patel and I am a highly skilled and experienced data scientist and freelancer. I specialize in AI, ML, and data science and have completed a variety of projects using Python and R programming languages. My expertise includes machine learning models such as sklearn and TensorFlow, as well as deep learning models such as multilayer perceptron and convolutional neural networks. I have applied these models to various classification and regression tasks, including natural language processing projects using transformer models and audio datasets. I have also worked with time series data for visualization and prediction using RNN and LSTM models.
 
-- 👀 I have completed my Master of Engineering(in the field of Automatic control and robotics) from M.S Univesity Baroda in the year 2020
+- I hold a Master of Engineering degree in Automatic Control and Robotics from M.S. University Baroda and have a strong foundation in advanced engineering concepts. I am dedicated to staying current with the latest technologies and approaches in the field and am always looking to further develop my skills and knowledge.
 
-- 📫 You can contanct me on my email id: dhrupadpatel007@gmail.com, linked in id: linkedin.com/in/dhrupad-patel-29921bb2 
+- In my current role as a data scientist and freelancer, I have worked on a range of projects including e-commerce consumer data analysis, online retailer consumer supply-demand analysis, electric fraud consumer analysis, P&ID object detection automation process, resume parser, deception detection, and data-driven agricultural development. These projects have involved using a variety of tools and techniques such as Tableau, Business Analytics, MySQL, data scraping, clustering, SVM, image processing, DL, CV, Pytorch, NLP, NER, Tkinter, Flask, Spacy, Docker, word2vec, and OpenSMILE.
+
+- In my current role as a data scientist and freelancer, I have worked on a range of projects including e-commerce consumer data analysis, online retailer consumer supply-demand analysis, electric fraud consumer analysis, P&ID object detection automation process, resume parser, deception detection, and data-driven agricultural development. These projects have involved using a variety of tools and techniques such as Tableau, Business Analytics, MySQL, data scraping, clustering, SVM, image processing, DL, CV, Pytorch, NLP, NER, Tkinter, Flask, Spacy, Docker, word2vec, and OpenSMILE.
+
+
 
 <!---
 DpD-Nightmare/DpD-Nightmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
